@@ -3,7 +3,7 @@
 
 
 ## Hi there, ✋🏽 
-<-- **Nerajno/nerajno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 
 - 🔭 I’m currently working on ... learning and leveling up at my "new-ish" job.
