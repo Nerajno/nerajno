@@ -1,7 +1,7 @@
 
 
 
-[![my banner](https://github.com/Nerajno/nerajno/blob/master/banner.png)
+![my banner](https://github.com/Nerajno/nerajno/blob/master/banner.png)
 
 ## Hi there ✋🏽, Nerando here. 
 
