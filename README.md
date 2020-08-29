@@ -19,7 +19,7 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 - 👯 I’m looking to collaborate on React and JavaScript projects. 
 - 🤔 I’m looking for help with ☝🏽 .
 - 💬 Ask me about ... community building and JavaScript.
-- 📫 How to reach me: ... [https://twitter.com/nerajno] (@nerajno).
+- 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno).
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I know how to use all most tools on a farm. 
 
