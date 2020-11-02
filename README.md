@@ -21,5 +21,5 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 - 💬 Ask me about ... community building and JavaScript.
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno).
 - 😄 Pronouns: ... He/Him.
-- ⚡ Fun fact: ...I know how to use all most tools on a farm. 
+- ⚡ Fun fact: ...I know how to use most of the tools on a farm. 
 
