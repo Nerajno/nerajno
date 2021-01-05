@@ -15,7 +15,7 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 ## Other Summary
 - 🔭 I’m currently working on ... getting skills to mid-level fullstack dev levels and making good technical content.
 - 📝 I blog [here](https://dev.to/nerajno). 
-- 🌱 I’m currently learning/retooling/building ...  using my bootcamp's tech stack and completing FreeCodeCamp JavaScript certificate (due Dec 2021).
+- 🌱 I’m currently learning/retooling/building ...  using my bootcamp's tech stack and completing FreeCodeCamp JavaScript certificate.
 - 👯 I’m looking to collaborate on React, Rails and JavaScript projects. 
 - 🤔 I’m looking for help with ☝🏽 .
 - 💬 Ask me about ... community building, my teach stack and teaching basic web development skills (HTML, CSS, Javascript and Git)
