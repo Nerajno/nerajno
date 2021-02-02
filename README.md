@@ -23,3 +23,4 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I still love Legos. 
 
+![Visitor Count](https://profile-counter.glitch.me/{nerajno}/count.svg)
