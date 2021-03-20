@@ -10,7 +10,7 @@
 
 Nerando has worn a few hats before becoming a developer : lab technician, farmer, truck driver, middle school science teacher, business founder, tutor and a middle school literacy specialist. These turns in the road has enabled him learn fast, work well within a  properly structured team, understand what going "the extra mile" means and having a different outlook while problem solving or developing solutions.
 
-When not coding, Nerando enjoys cooking, reading, the act of creating something from nothing and the odd blog or podcast about the human mind or habits (Hi, NPR). After completing the Flatiron School's FullStack Software Engineering Immersive ( completed Sept 2019) and served time as QA/junior software  developer at WarnerMedia, he is currently looking for his next career oppurtunity.  With some experience as the local organizer of the FreeCodeCamp group, he has been able to mentor and help other porple in their developer journey. 
+When not coding, Nerando enjoys cooking, reading, the act of creating something from nothing and the odd blog or podcast about the human mind or habits (Hi, NPR). After completing the Flatiron School's FullStack Software Engineering Immersive ( completed Sept 2019) and served time as QA/junior software  developer at WarnerMedia, he is currently looking for his next career oppurtunity.  With some experience as the local organizer of the FreeCodeCamp group, he has been able to mentor and help other porple in their developer journey while working on his own. 
 
 ## Other Summary
 - 🔭 I’m currently working on ... getting skills to mid-level fullstack dev levels and making good technical content.
