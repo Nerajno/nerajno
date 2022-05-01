@@ -13,7 +13,7 @@ Nerando has worn a few hats before becoming a developer: lab technician, farmer,
 When not coding, Nerando enjoys cooking, reading, the act of creating something from nothing and the odd blog or podcast about the human mind, creating good habits (Hi, NPR) or podcasts that reinforce the craft or understand another point of view. After completing the Flatiron School's FullStack Software Engineering Immersive ( completed Sept 2019) and serving time as QA/junior software developer at WarnerMedia, he is currently working as a Fullstack Developer with a focus on DevOps, at Equity Prime Mortgage in Atlanta. With some experience as the local organizer of the FreeCodeCamp group, he has been able to mentor and help other people in their developer journey while working on his own. 
 
 ## Links ## 
-![My Portfolio](https://developingdvlpr.com/)
+💼 My Portfolio](https://developingdvlpr.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nerando-johnson/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nerajno)
 
