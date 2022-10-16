@@ -27,6 +27,5 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno), my DMs are open.
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I still love Legos and reading education research ( specifically applied science, literacy and psychology based educational research). 
--
 
 ###  Glad to see you here   ![visitors](https://page-views.glitch.me/badge?page_id=$nerajno)
