@@ -6,7 +6,7 @@
 ## Hi there ✋🏽, Nerando here. 
 
 ## Brief Bio 
-  This is Nerando, he likes to solve problems using programming as a part of his toolkit, (Yup, He has, currently, skills of a full stack developer). Nerando is currently the main community organizer for freeCodeCamp Atlanta. He has been to a few hackathons and is an infrequent blogger (working on that).
+  This is Nerando, he likes to solve problems using programming as a part of his toolkit, (Yup, He has, currently, skills of a full stack developer). He is currently the main community organizer for freeCodeCamp Atlanta and  has been to a few hackathons and is an infrequent blogger (working on that).
 
 Nerando has worn a few hats before becoming a developer: lab technician, farmer, truck driver, middle school science teacher, business founder, tutor and middle school literacy specialist. These turns in his journey, has enabled him to learn fast, work well within a properly structured team, understand what going "the extra mile" means and have a different outlook while problem-solving or developing solutions.
 
