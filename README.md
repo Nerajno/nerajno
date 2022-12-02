@@ -22,7 +22,7 @@ When not coding, Nerando enjoys cooking, reading, the act of creating something 
 ## Other Summary
 - 🔭 I’m currently working on ... getting skills to mid-level fullstack dev levels and making good technical content.
 - 📝 I blog [here](https://dev.to/nerajno). 
-- 🌱 I’m currently learning/retooling/building using my bootcamp's tech stack (Ruby && JavaScript), the MERN stack and DevOps skillset.
+- 🌱 I’m currently learning/retooling/building using my bootcamp's tech stack (Ruby && JavaScript), the MERN stack and a few DevOps skill.
 - 👯 I’m looking to collaborate on projects that reinforce the skillsets above . 
 - 🤔 I’m looking for help with ☝🏽 and learning growth hacking.
 - 💬 Ask me about ... community building, learning how-to-learn, my tech stack and teaching basic web development skills (HTML, CSS, Javascript and Git).
