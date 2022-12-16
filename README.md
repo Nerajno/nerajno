@@ -6,11 +6,20 @@
 ## Hi there ✋🏽, Nerando here. 
 
 ## Brief Bio 
-  This is Nerando, he likes to solve problems using programming as a part of his toolkit, (Yup, He has, currently, skills of a full stack developer). He is currently the main community organizer for freeCodeCamp Atlanta and  has been to a few hackathons and is an infrequent blogger ( still working on that).
+I am currently a full-stack developer at Equity Prime Mortgage, serving mostly in a DevOps capacity while assisting a team of 9 developers working on the company's proprietary mortgage web platform. Our team does a combination of new feature development in a modern Expo React Native SPA front-end codebase, the creation of a Node.js back end, the creation and integration of middleware, and the creation of new user workflows and adding functionality as needed. 
 
-Nerando has worn a few hats before becoming a developer: lab technician, farmer, truck driver, middle school science teacher, business founder, tutor and middle school literacy specialist. These turns in his journey, has enabled him to learn fast, work well within a properly structured team, understand what going "the extra mile" means and have a different outlook while problem-solving or developing solutions.
+Previously I worked as a QA/Junior Software Engineer at WarnerMedia Discovery's Atlanta office. My role focused on creating Javascript-based ad technologies for the company's famous brands: Cartoon Network and Adult Swim. 
 
-When not coding, Nerando enjoys cooking, reading, the act of creating something from nothing and the odd blog or podcast about the human mind, creating good habits (Hi, NPR and Podcast Addict) or podcasts that reinforces the craft or help one to understand another point of view. After completing the Flatiron School's FullStack Software Engineering Immersive (Sept 2019) and serving time as QA/junior software developer at WarnerMedia, he is currently working as a Fullstack Developer with a focus on DevOps, at Equity Prime Mortgage in Atlanta. With some experience as the current local organizer of the FreeCodeCamp Atlanta  group, he has been able to help other people in their developer journey while working on his own and do some amount of speaking on the topics pertaining to learning and code.
+In both positions, a large part of my work involved brainstorming, untethered problem solving and modifying codebases, and working with multiple stakeholders to ensure the work being done is understood and delivering the right solutions. I've also worked to simplify documentation, QA, and testing strategies, thus facilitating best practices in the software development life cycle, while wearing various hats to ensure my team was taken care of as needed. 
+
+Before WarnerMedia Discovery, I interned at Mobile App Hero, diving deeper into the Expo React Native and Firebase stack, understanding the technical tooling and process required to develop a product, thus, bringing value to customers. My other tech-based experiences includes being an intern at Ringer Consulting Group in 2017, where I served as an instructor for the introduction to web development course for Lighthouse.
+
+Most recently, I served as a software engineering mentor at Thinkful( a Chegg service), assisting students as they complete their journey into software development. I have volunteered at several tech conferences, including being a co-organizer at FreeCodeCamp Atlanta since 2018.
+In 2016, I was a part of a civic hacking project which started at the first MARTA hackathon, the idea went on to win $40,000 in the ATLC3 competition in 2018.
+
+ Outside of being a technologist, I have a lot of interest in cooking, art, and tinkering. I have a vast array of experience in agriculture as I have been an apprentice farmer; transport as I have worked as a truck driver; and customer service as I have spent more than two years electronics repair technician, among other trades.
+
+Even though being a software engineer is my current trade, I have an enormous skill set in terms of learning, documentation, and best practices in cross-communication with different learning types as a result of my training as a middle school teacher (science and literacy specialization).
 
 
 
