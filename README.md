@@ -6,20 +6,17 @@
 ## Hi there ✋🏽, Nerando here. 
 
 ## Brief Bio 
-I am currently a full-stack developer at Equity Prime Mortgage, serving mostly in a DevOps capacity while assisting a team of 9 developers working on the company's proprietary mortgage web platform. Our team does a combination of new feature development in a modern Expo React Native SPA front-end codebase, the creation of a Node.js back end, the creation and integration of middleware, and the creation of new user workflows and adding functionality as needed. 
+As a  former full-stack developer at Equity Prime Mortgage, I have served in a DevOps capacity while assisting a team of nine developers on the company's proprietary mortgage web platform, the forst version was tasked to serve 5000 users concurrently. Our team worked on new feature development in a modern Expo React Native SPA front-end codebase, the creation of a Node.js back end, the creation and integration of middleware, and the creation of new user workflows and adding functionality as needed.
 
-Previously I worked as a QA/Junior Software Engineer at WarnerMedia Discovery's Atlanta office. My role focused on creating Javascript-based ad technologies for the company's famous brands: Cartoon Network and Adult Swim. 
+Prior to this role, I worked as a QA/Junior Software Engineer at WarnerMedia Discovery's Atlanta office, where I was responsible for creating Javascript-based ad technologies for the company's famous brands: Cartoon Network and Adult Swim (Emmy Award Winjner for 2019).
 
-In both positions, a large part of my work involved brainstorming, untethered problem solving and modifying codebases, and working with multiple stakeholders to ensure the work being done is understood and delivering the right solutions. I've also worked to simplify documentation, QA, and testing strategies, thus facilitating best practices in the software development life cycle, while wearing various hats to ensure my team was taken care of as needed. 
+In both positions, I have demonstrated strong problem solving skills and the ability to modify codebases, as well as worked with multiple stakeholders to ensure that the work being done is understood and delivering the right solutions. I have also simplified documentation, QA, and testing strategies to facilitate best practices in the software development life cycle, and have taken on various roles to support my team as needed.
 
-Before WarnerMedia Discovery, I interned at Mobile App Hero, diving deeper into the Expo React Native and Firebase stack, understanding the technical tooling and process required to develop a product, thus, bringing value to customers. My other tech-based experiences includes being an intern at Ringer Consulting Group in 2017, where I served as an instructor for the introduction to web development course for Lighthouse.
+Before WarnerMedia Discovery, I interned at Mobile App Hero, where I gained a deeper understanding of the Expo React Native and Firebase stack and the technical tooling and process required to develop a product. I have also interned at Ringer Consulting Group, where I served as an instructor for the introduction to web development course for Lighthouse.
 
-Most recently, I served as a software engineering mentor at Thinkful( a Chegg service), assisting students as they complete their journey into software development. I have volunteered at several tech conferences, including being a co-organizer at FreeCodeCamp Atlanta since 2018.
-In 2016, I was a part of a civic hacking project which started at the first MARTA hackathon, the idea went on to win $40,000 in the ATLC3 competition in 2018.
+In addition to my professional experience, I have served as a software engineering mentor at Thinkful (a Chegg service), assisting students as they complete their journey into software development. I have also co-organized the FreeCodeCamp Atlanta conference since 2018 and participated in a civic hacking project that won $40,000 in the ATLC3 competition in 2018.
 
- Outside of being a technologist, I have a lot of interest in cooking, art, and tinkering. I have a vast array of experience in agriculture as I have been an apprentice farmer; transport as I have worked as a truck driver; and customer service as I have spent more than two years electronics repair technician, among other trades.
-
-Even though being a software engineer is my current trade, I have an enormous skill set in terms of learning, documentation, and best practices in cross-communication with different learning types as a result of my training as a middle school teacher (science and literacy specialization).
+Outside of my career in technology, I have a wide range of interests and experiences, including cooking, art, agriculture, truck driving, customer service, and electronics repair. I have also received training as a middle school teacher (science and literacy specialization), which has enhanced my skills in learning, documentation, and cross-communication with different learning types.
 
 
 
