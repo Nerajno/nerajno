@@ -6,18 +6,23 @@
 ## Hi there ✋🏽, Nerando here. 
 
 ## Brief Bio 
-As a  former full-stack developer at Equity Prime Mortgage, I have served in a DevOps capacity while assisting a team of nine developers on the company's proprietary mortgage web platform, the first version was tasked to serve 5000 users concurrently. Our team worked on new feature development in a modern Expo-based React/React Native SPA front-end codebase, the creation of a Node.js back end, the creation and integration of middleware, and the creation of new user workflows and adding functionality as needed.
+As a full-stack developer, I have served in a DevOps capacity while assisting a team of nine developers on a proprietary mortgage web platform. Our team worked on new feature development in a modern Expo-based React/React Native SPA front-end codebase plus creation of: Node.js back-end, integration of middleware, new user workflows and adding functionality for 5,000 concurrent users.
 
-Prior to this role, I worked as a QA/Junior Software Engineer at WarnerMedia Discovery's Atlanta office, where I was responsible for creating and reviewing  Javascript-based ad technologies for the company's famous brands: Cartoon Network and Adult Swim (Emmy Award Winner for 2019).
+As Quality Assurance / Software Engineer with a local Atlanta firm, I was responsible for creating and reviewing JavaScript-based ad technologies for Cartoon Network and Adult Swim (Emmy Award Winner for 2019).
 
-In both positions, I have demonstrated strong problem solving skills and the ability to modify codebases, as well as worked with multiple stakeholders to ensure that the work being done is understood and delivering the right solutions. I have also simplified documentation, QA, and testing strategies to facilitate best practices in the software development life cycle, and have taken on various roles to support my team as needed.
+My strengths include problem solving, the ability to modify codebases, ability to work with multiple stakeholders to ensure that the work being done is understood and the expected solutions are delivered. Additional skills experience include: simplified documentation, Quality Assurance, and test strategies. Facilitating best practices in the software development life cycle, I am open to support my team in whichever way brings needed.
 
-Before WarnerMedia Discovery, I interned at Mobile App Hero, where I gained a deeper understanding of the Expo React Native and Firebase stack and the technical tooling and processes required to develop a product. I have also interned at Ringer Consulting Group and served as an instructor for the introduction to web development course for Lighthouse.
+In addition to my professional experience, I have served as a Mentor for early-stage software engineers at Thinkful (a Chegg service), assisting students as they complete their journey into software development. Since 2018, I have co-organized the FreeCodeCamp Atlanta conference. As a team participant of [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d), our team won the civic hacking project earning a prize of $40,000.
 
-In addition to my professional experience, I have served as a software engineering mentor at Thinkful (a Chegg service), assisting students as they complete their journey into software development. I have also co-organized the FreeCodeCamp Atlanta conference since 2018 and participated in a civic hacking project that won $40,000 in the [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d).
-
-Outside of my career in technology, I have a wide range of interests and experiences, including cooking, art, agriculture, truck driving, customer service, and electronics repair. I have also received training as a middle school teacher (science and literacy specialization), which has enhanced my skills in learning, documentation, and cross-communication with different learning types.
-
+## My Tech Stack 
+**Languages:** CSS3, HTML5, JavaScript, Ruby, Python
+**Frameworks:** Bootstrap, Ruby-on-Rails, React, SemanticUI, SASS, Expo (React Native) 
+**Practices:** Accessibility, Agile Development, CI/CD, Documentation, MVC, Peer Programming, SEO, TDD
+**Tools:** Asana, Azure DevOps, Cypress, Confluence, git, Jira, Sentry 
+**Databases:** PostgreSQL, Sqlite3, MongoDB 
+**OS:** Linux, macOS, Windows 
+**Platforms:** BitBucket, GitHub, Google APIs, Firebase 
+**Services:** Heroku, Google Cloud Platform, Netlify, WordPress (Theme-based development)
 
 
 ## Links ## 
@@ -26,14 +31,15 @@ Outside of my career in technology, I have a wide range of interests and experie
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nerajno)
 
 ## Other Summary
-- 🔭 I’m currently working on ... getting skills to mid-level fullstack dev levels and making good technical content.
-- 📝 I blog [here](https://dev.to/nerajno). 
-- 🌱 I’m currently learning/retooling/building using my bootcamp's tech stack (Ruby && JavaScript), the MERN stack and a few DevOps skill.
+- 🔭 I’m currently getting better at making good technical content among other things.
+- I’m currently upgrading skills in JavaScript, Ruby, Rails, the MERN stack and a few DevOps skill.
+- 📝 I currently blog [here](https://dev.to/nerajno). 
+- 🌱 I’m upskilling on CS50 and AWS.
 - 👯 I’m looking to collaborate on projects that reinforce the skillsets above . 
-- 🤔 I’m looking for help with ☝🏽 and learning growth hacking.
+- 🤔 I’m looking for help with growth hacking.
 - 💬 Ask me about ... community building, learning how-to-learn, my tech stack and teaching basic web development skills (HTML, CSS, Javascript and Git).
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno), my DMs are open.
 - 😄 Pronouns: ... He/Him.
-- ⚡ Fun fact: ...I still love Legos and reading education research ( specifically applied science, literacy and psychology based educational research). 
+- ⚡ Fun fact: ...I love Legos and reading education research ( specifically applied science, literacy and psychology based educational research). 
 
 ###  Glad to see you here   ![visitors](https://page-views.glitch.me/badge?page_id=$nerajno)
