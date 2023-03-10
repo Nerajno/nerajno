@@ -15,14 +15,14 @@ My strengths include problem solving, the ability to modify codebases, ability t
 In addition to my professional experience, I have served as a Mentor for early-stage software engineers at Thinkful (a Chegg service), assisting students as they complete their journey into software development. Since 2018, I have co-organized the FreeCodeCamp Atlanta conference. As a team participant of [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d), our team won the civic hacking project earning a prize of $40,000.
 
 ## My Tech Stack 
-**Languages:** CSS3, HTML5, JavaScript, Ruby, Python
-**Frameworks:** Bootstrap, Ruby-on-Rails, React, SemanticUI, SASS, Expo (React Native) 
-**Practices:** Accessibility, Agile Development, CI/CD, Documentation, MVC, Peer Programming, SEO, TDD
-**Tools:** Asana, Azure DevOps, Cypress, Confluence, git, Jira, Sentry 
-**Databases:** PostgreSQL, Sqlite3, MongoDB 
-**OS:** Linux, macOS, Windows 
-**Platforms:** BitBucket, GitHub, Google APIs, Firebase 
-**Services:** Heroku, Google Cloud Platform, Netlify, WordPress (Theme-based development)
+- **Languages:** CSS3, HTML5, JavaScript, Ruby, Python
+- **Frameworks:** Bootstrap, Ruby-on-Rails, React, SemanticUI, SASS, Expo (React Native) 
+- **Practices:** Accessibility, Agile Development, CI/CD, Documentation, MVC, Peer Programming, SEO, TDD
+- **Tools:** Asana, Azure DevOps, Cypress, Confluence, git, Jira, Sentry 
+- **Databases:** PostgreSQL, Sqlite3, MongoDB 
+- **OS:** Linux, macOS, Windows 
+- **Platforms:** BitBucket, GitHub, Google APIs, Firebase 
+- **Services:** Heroku, Google Cloud Platform, Netlify, WordPress (Theme-based development)
 
 
 ## Links ## 
