@@ -12,7 +12,7 @@ As Quality Assurance / Software Engineer with a local Atlanta firm, I was respon
 
 My strengths include problem solving, the ability to modify codebases, ability to work with multiple stakeholders to ensure that the work being done is understood and the expected solutions are delivered. Additional skills experience include: simplified documentation, Quality Assurance, and test strategies. Facilitating best practices in the software development life cycle, I am open to support my team in whichever way brings needed.
 
-In addition to my professional experience, I have served as a Mentor for early-stage software engineers at Thinkful (a Chegg service), assisting students as they complete their journey into software development. Since 2018, I have co-organized the FreeCodeCamp Atlanta conference. As a team participant of [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d), our team won the civic hacking project earning a prize of $40,000.
+In addition to my professional experience, I have served as a Mentor for early-stage software engineers at Thinkful (a Chegg service), assisting students as they complete their journey into software development. Since 2018, I have co-organized the local FreeCodeCamp Atlanta chapter. As a team participant of [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d), our team won the civic hacking project earning a prize of $40,000.
 
 ## My Tech Stack 
 - **Languages:** CSS3, HTML5, JavaScript, Ruby, Python
