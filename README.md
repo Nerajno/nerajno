@@ -42,4 +42,3 @@ In addition to my professional experience, I have served as a Mentor for early-s
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I love Legos and reading education research ( specifically applied science, literacy and psychology based educational research). 
 
-###  Glad to see you here   ![visitors](https://page-views.glitch.me/badge?page_id=$nerajno)
