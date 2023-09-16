@@ -34,11 +34,11 @@ In addition to my professional experience, I have served as a Mentor for early-s
 - 🔭 I’m currently getting better at making good technical content among other things.
 - I’m currently upgrading skills in JavaScript, Ruby, Rails, the MERN stack, and a few DevOps skills.
 - 📝 I currently blog [here](https://dev.to/nerajno). 
-- 🌱 I’m upskilling in Java, Vue, and Azure.
+- 🌱 I’m upskilling in Java, Vue, TypeScript, and Azure.
 - 👯 I’m looking to collaborate on projects that reinforce the skillsets above. 
 - 🤔 I’m looking for help with growth hacking.
 - 💬 Ask me about ... community building, learning how-to-learn, my tech stack, and teaching basic web development skills (HTML, CSS, Javascript, and Git).
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno), my DMs are open.
 - 😄 Pronouns: ... He/Him.
-- ⚡ Fun fact: ...I love Legos and reading education research ( specifically applied science, literacy, and psychology-based educational research). 
+- ⚡ Fun fact: ...I STILL love Legos and reading education research ( specifically applied science, literacy, and psychology-based educational research). 
 
