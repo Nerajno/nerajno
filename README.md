@@ -22,7 +22,7 @@ In addition to my professional experience, I have served as a Mentor for early-s
 - **Databases:** PostgreSQL, Sqlite3, MongoDB 
 - **OS:** Linux, macOS, Windows 
 - **Platforms:** BitBucket, GitHub, Google APIs, Firebase 
-- **Services:** Heroku, Google Cloud Platform, Netlify, WordPress (Theme-based development)
+- **Services:** Heroku, Google Cloud Platform, Azure, Netlify, Vercel, WordPress (Theme-based development)
 
 
 ## Links ## 
