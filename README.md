@@ -37,7 +37,7 @@ In addition to my professional experience, I have served as a Mentor for early-s
 - 🌱 I’m upskilling in Vue, TypeScript and JavaScript ( Does it really end ?).
 - 👯 I’m looking to collaborate on projects that reinforce the skillsets above. 
 - 🤔 I’m looking for help with growth hacking.
-- 💬 Ask me about ... community building, learning how-to-learn, my tech stack, and teaching basic web development skills (HTML, CSS, Javascript, and Git).
+- 💬 Ask me about ... community building, learning how-to-learn, my tech stack, and teaching introductory web development skills.
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno), my DMs are open.
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ...I STILL love Legos and reading education research ( specifically applied science, literacy, and psychology-based educational research). 
