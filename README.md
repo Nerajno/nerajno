@@ -31,12 +31,12 @@ In addition to my professional experience, I have served as a mentor for early-s
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nerajno)
 
 ## Other Summary
-- 🔭 I’m currently getting better at making good technical content among other things.
-- I’m currently upgrading skills in JavaScript, Ruby, Rails, the MERN stack, and a few DevOps skills.
-- 📝 I currently blog [here](https://dev.to/nerajno). 
+- 🔭 I’m currently getting better at making good technical content by building things[0/10].
 - 🌱 I’m upskilling in Vue3, TypeScript and JavaScript ( Does it really end ?).
-- 👯 I’m looking to collaborate on projects that reinforce the skillsets above. 
-- 🤔 I’m looking for help with growth and learning hacking.
+- I am also tinker with Astro, Ruby, Rails, the MERN stack, and a few DevOps skills.
+- 📝 I currently blog [here](https://dev.to/nerajno). 
+- 👯 I’m working on projects that reinforce, demonstrate and show the skillsets above. 
+- 🤔 I’m looking for help with career growth and learning methodologies.
 - 💬 Ask me about ... community building, learning how-to-learn, my tech stack, and teaching introductory web development skills.
 - 📫 How to reach me: ...  [@nerajno](https://twitter.com/nerajno), my DMs are open.
 - 😄 Pronouns: ... He/Him.
