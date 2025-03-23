@@ -14,11 +14,11 @@ My strengths include problem-solving, creating and modifying codebases, and work
 
 In addition to my professional experience, I have served as a mentor for early-stage software engineers at Thinkful (a Chegg service) and Lighthouse, assisting students as they complete their journey into software development. Since 2018, I have co-organized the local FreeCodeCamp Atlanta chapter. As a team participant of [ATLC3 competition in 2018](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d), our team won the civic hacking project earning a prize of $40,000, donating it all to charities focused on disability and tech-education.
 
-## My Tech Stack 
+## My Tech Stack Experience Includes : 
 - **Languages:** CSS3, JavaScript, Ruby, Python
 - **Frameworks:** Bootstrap, Ruby-on-Rails, React, SemanticUI, SASS, Expo (React Native), Vue ~> Learning
 - **Practices:** Accessibility, Agile Development, CI/CD, Documentation, MVC, Peer Programming, SEO, TDD
-- **Tools:** Asana, Azure DevOps, Cypress, Confluence, git, Jira, Sentry 
+- **Tools:** Asana, Azure DevOps, Cypress, Confluence, git, Jira, Sentry
 - **Databases:** PostgreSQL, Sqlite3, MongoDB 
 - **OS:** Linux, macOS, Windows 
 - **Platforms:** BitBucket, GitHub, Google APIs, Firebase 
